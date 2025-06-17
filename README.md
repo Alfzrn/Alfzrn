@@ -2,7 +2,7 @@
 <p align="center">Front-End Developer | UI/UX Enthusiast | Clean Code Advocate</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=robi123&label=Visitors&color=0e75b6&style=flat" />
+  <img src="https://media.tenor.com/VEPG1Jpgt9kAAAAC/lines-code.gif" width="500" alt="Coding Flow" />
 </p>
 
 ---
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=robi123&show_icons=true&theme=tokyonight&hide_title=true" width="48%" />
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robi123&layout=compact&theme=tokyonight&hide_title=true" width="48%" />
 </p>
 
 ---
