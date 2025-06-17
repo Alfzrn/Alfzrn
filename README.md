@@ -18,10 +18,12 @@
 
 ### 📈 My GitHub Stats
 <p align="center">
+  <img src="https://media.giphy.com/media/2fvolGgDShlWU/giphy.gif" width="200" alt="Pac-Man GIF"/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=robi123&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robi123&layout=compact&theme=tokyonight" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robi123&
+
 
 ---
 
