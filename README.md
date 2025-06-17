@@ -2,7 +2,7 @@
 <p align="center">Front-End Developer | UI/UX Enthusiast | Clean Code Advocate</p>
 
 <p align="center">
-  <img src="https://media.tenor.com/VEPG1Jpgt9kAAAAC/lines-code.gif" alt="Coding Flow" />
+  <img src="https://media.tenor.com/IevO0Zx7VYoAAAAC/aizen.gif" width="500" alt="Aizen Coding GIF" />
 </p>
 
 
