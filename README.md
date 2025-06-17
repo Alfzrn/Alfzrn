@@ -2,7 +2,7 @@
 <p align="center">Front-End Developer | UI/UX Enthusiast | Clean Code Advocate</p>
 
 <p align="center">
-  <img src="https://i.imgur.com/abc123.gif" width="500" alt="Coding Flow" />
+  <img src="https://media.tenor.com/IevO0Zx7VYoAAAAC/aizen.gif" width="500" alt="Aizen Coding Flow" />
 </p>
 
 ---
